@@ -10,5 +10,18 @@
   "homepage": "https://bankrollszn.com/ai",
   "repository": "https://github.com/mitchkj25/bankrollszn-claude-plugin",
   "license": "MIT",
-  "keywords": ["dfs", "draftkings", "fantasy sports", "sports analytics", "nba", "nfl", "nhl", "mlb", "pga", "ufc"]
+  "keywords": [
+    "dfs",
+    "draftkings",
+    "fantasy sports",
+    "sports analytics",
+    "nba",
+    "nfl",
+    "nhl",
+    "mlb",
+    "pga",
+    "ufc"
+  ],
+  "privacyPolicyUrl": "https://bankrollszn.com/privacy-policy",
+  "icon": ".claude-plugin/icon.png"
 }

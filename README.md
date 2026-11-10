@@ -29,7 +29,7 @@ A free BankrollSZN account works. The free plan has a daily call limit. The Fan 
 
 ## Data and privacy
 
-The connector reads BankrollSZN data. It does not place bets, move money or connect to a sportsbook account. It can save and delete BankrollSZN Targets on your account only when you ask. Privacy policy: https://bankrollszn.com/privacy. Terms: https://bankrollszn.com/terms.
+The connector reads BankrollSZN data. It does not place bets, move money or connect to a sportsbook account. It can save and delete BankrollSZN Targets on your account only when you ask. Privacy policy: https://bankrollszn.com/privacy-policy. Terms: https://bankrollszn.com/terms.
 
 ## Support
 

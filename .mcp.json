@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bankrollszn": {
+      "type": "http",
+      "url": "https://mcp.bankrollszn.com/app"
+    }
+  }
+}

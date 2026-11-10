@@ -1,0 +1,14 @@
+{
+  "name": "bankrollszn",
+  "displayName": "BankrollSZN",
+  "version": "1.0.0",
+  "description": "DFS and sports research from BankrollSZN in Claude: projections, ownership, optimizers, props, odds, sims, injuries and matchups for NBA, NFL, NHL, MLB, WNBA, PGA, UFC and LoL.",
+  "author": {
+    "name": "BankrollSZN",
+    "url": "https://bankrollszn.com"
+  },
+  "homepage": "https://bankrollszn.com/ai",
+  "repository": "https://github.com/mitchkj25/bankrollszn-claude-plugin",
+  "license": "MIT",
+  "keywords": ["dfs", "draftkings", "fantasy sports", "sports analytics", "nba", "nfl", "nhl", "mlb", "pga", "ufc"]
+}
